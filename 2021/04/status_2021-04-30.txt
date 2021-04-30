@@ -1,0 +1,10 @@
+查看全部服务状态
+服务mysite状态 运行中
+服务mgek状态 运行中
+服务blog状态 未运行
+服务staticsite状态 未运行
+服务jjservice状态 运行中
+服务jjgo状态 运行中
+服务jjmail状态 运行中
+服务jjbox状态 未运行
+服务jjalarm状态 未运行
