@@ -1,0 +1,16 @@
+blog: 服务正在运行
+cooki: 服务正在运行
+frp: 服务正在运行
+jjgo: 服务正在运行
+jjgo_page: 服务正在运行
+jjmail: 服务未在运行
+jjservice: 服务正在运行
+mgek: 服务正在运行
+mgekdoc: 服务正在运行
+mgekfile: 服务正在运行
+mysite: 服务正在运行
+plume: 服务正在运行
+redis: 服务正在运行
+resume: 服务正在运行
+v2ray: 服务正在运行
+works: 服务正在运行
