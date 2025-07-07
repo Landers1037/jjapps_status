@@ -1,0 +1,54 @@
++--------------------------+
+|状态信息                  |
++--------------------------+
+|[HappyBirthday]: OK       |
+|[Resume]: OK              |
+|[Blog]: OK                |
+|[Xray]: OK                |
+|[Card]: OK                |
+|[Heimdallr]: OK           |
+|[JJGo]: OK                |
+|[Athena]: UNKNOWN         |
+|[JJChat]: BAD             |
+|[JJAppDev]: OK            |
+|[Nidavellir]: OK          |
+|[Plume]: OK               |
+|[Atlas]: UNKNOWN          |
+|[TheWorldTree]: UNKNOWN   |
+|[JJServiceFront]: OK      |
+|[Eos]: BAD                |
+|[Mgek]: OK                |
+|[MongoDB]: OK             |
+|[MgekDoc]: OK             |
+|[Palace]: OK              |
+|[Etcd]: OK                |
+|[BlogFront]: OK           |
+|[JJMail]: UNKNOWN         |
+|[Redis]: BAD              |
+|[Chaos]: UNKNOWN          |
+|[Hermes]: OK              |
+|[Niphotri]: OK            |
+|[Jormungand]: UNKNOWN     |
+|[Nyx]: UNKNOWN            |
+|[MySite]: OK              |
+|[OctopusTwig]: OK         |
+|[Demeter]: OK             |
+|[PlumeFront]: OK          |
+|[RainbowBridge]: UNKNOWN  |
+|[JJRobot]: UNKNOWN        |
+|[Monica]: BAD             |
+|[V2]: BAD                 |
+|[Frp]: BAD                |
+|[JJService]: OK           |
+|[Works]: OK               |
+|[Drive]: BAD              |
+|[Sandwich]: OK            |
+|[JJGoFront]: OK           |
+|[Traefik]: OK             |
+|[Apollo]: OK              |
+|[DevDoc]: OK              |
+|[InfluxDB]: BAD           |
+|[JJAppX]: OK              |
+|[CookBook]: BAD           |
+|[Homeland]: OK            |
++--------------------------+
